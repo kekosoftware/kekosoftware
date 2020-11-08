@@ -22,16 +22,6 @@ Here are some ideas to get you started:
 - 💪🏼 Future Goals: Starting a Doctor in UNNE.
 - ⚡ Fun fact: I love to play basket and Swimming.
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
-
----
-
 ### Contact with me 📝
 
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
@@ -77,7 +67,13 @@ Here are some ideas to get you started:
 
 <br/>
 ---
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
+
 ---
 
 ---
