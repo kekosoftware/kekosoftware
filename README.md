@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Argentinean - [kekosoftware](http://kekosoftware.com.ar) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm a B.S in Systems form the UNNE (National University of the Northeast) in Argentina
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, VueJS, PHP, Laravale, etc.
@@ -78,6 +76,9 @@ Here are some ideas to get you started:
 </div
 
 <br/>
+---
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+---
 
 ---
 
