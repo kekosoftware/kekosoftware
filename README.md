@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play basket and Swimming.
 
 ### Contact with me 📝
-
-[<img align="left" alt="kekosoftware.com.ar" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="Gustavo Ariel | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[kekosoftware](http://kekosoftware.com.ar)
+[LinkedIn]((https://www.linkedin.com/in/gustavo-ariel-coronel/)
 
 <br />
 
