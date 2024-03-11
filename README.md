@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Contact with me 📝
 - [kekosoftware](http://kekosoftware.com.ar)
-- [LinkedIn]((https://www.linkedin.com/in/gustavo-ariel-coronel/)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-ariel-coronel/)
 
 <br />
 
