@@ -55,9 +55,6 @@ Here are some ideas to get you started:
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kekosoftware&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekosoftware&theme=react&line_height=40&hide=css"/>
     </a>
@@ -76,10 +73,10 @@ Here are some ideas to get you started:
 
 ---
 
-### ⭐️ From [kekosoftware](http://kekosoftware.com.ar) ### 
+### ⭐️ From [kekosoftware](https://kekosoftware.github.io) ### 
 
 ---
 
-[website]: http://kekosoftware.com.ar/
+[website]: https://kekosoftware.github.io
 [instagram]: https://www.instagram.com/gusformosa256
 [linkedin]: https://www.linkedin.com/in/gustavo-ariel-coronel/
