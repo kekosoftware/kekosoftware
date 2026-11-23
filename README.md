@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Argentinean - [kekosoftware](http://kekosoftware.com.ar) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+### Hi there 👋, I'm Argentinean <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 ## I'm a Bachelor in Systems form the UNNE (National University of the Northeast) in Argentina
 
