@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Bachelor in Systems form the UNNE (National University of the Northeast) in Argentina
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, VueJS, PHP, Laravale, etc.
+- 👨‍💻 I’m currently working on web development technologies like Shopify, JavaScript, VueJS, PHP, Laravale, etc.
 - 📚 I’m currently learning a Master degree in UNNE 😅
 - 💪🏼 Future Goals: Starting a Doctor in UNNE.
 - ⚡ Fun fact: I love to play basket and Swimming.
